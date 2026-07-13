@@ -14,14 +14,21 @@ st.write("Predict the winner of a football match!")
 
 # Teams
 teams = [
-    "Real Madrid",
-    "Barcelona",
-    "Manchester City",
-    "Liverpool",
-    "Bayern Munich",
-    "PSG",
-    "Arsenal",
-    "Inter Milan"
+   "Spain",
+   "Argentina",
+   "moroco",
+   "England",
+   "suizerland",
+   "france",
+   "Norway",
+   "Bejium",
+   "Pakistan",
+   "srilanka",
+   "india",
+   "Afghinsitan",
+   "australia"
+
+
 ]
 
 # Select teams
@@ -59,4 +66,4 @@ if st.button("Predict Match"):
 
 # Footer
 st.write("---")
-st.caption("Created with ❤️ using Streamlit")
+st.caption("Created with ❤️ Muhammad Fawad ")
